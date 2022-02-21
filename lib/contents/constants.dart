@@ -1,0 +1,22 @@
+const List<String> IMAGE_LIST = [
+  "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+  "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/35af6a41332353.57a1ce913e889.jpg",
+  "https://pbs.twimg.com/media/D8dDZukXUAAXLdY.jpg",
+  "https://static.boredpanda.com/blog/wp-content/uploads/2017/04/JAY_0572-2-2-58f798a00c4da__880.jpg",
+  "http://images4.fanpop.com/image/photos/16300000/Random-people-random-16382026-600-800.jpg",
+  "https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+  "https://data.whicdn.com/images/312637959/original.jpg",
+  "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+  "https://dz9yg0snnohlc.cloudfront.net/cro-is-it-healthy-to-chat-with-random-people-online-2.jpg",
+  "https://mir-s3-cdn-cf.behance.net/project_modules/1400/e98f2535036667.58bc6981515a3.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVWL0CQNReLLNyO0lqaYS8s6x6zU0v5hPIKA&usqp=CAU",
+  "https://live.staticflickr.com/480/18978063030_9cd650b9bd_b.jpg",
+  "https://pbs.twimg.com/media/DZotU1hW0AEDN5F.jpg",
+  "http://images6.fanpop.com/image/photos/37300000/Random-Girl-people-37325426-236-354.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiDDrrABLvwdJil3nvv2jlIRCTiXiWhcZUaQ&usqp=CAU",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5U5D_cU8TJB0oo7nlRXVRBywE8CU1OexlK3f0AivE6OsoD1OCu9zPHHxczNwNI8FHzw&usqp=CAU",
+  "https://live.staticflickr.com/5252/5403292396_0804de9bcf_b.jpg",
+  "https://static.skillshare.com/cdn-cgi/image/quality=80,width=1000,format=auto/uploads/project/4c49440fec9b45c5464596033e0a23d7/ad168d89"
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXhANoJEf0-o1MN2iPD-zp8vLArHiXLnye2w&usqp=CAU",
+  "https://archive.storycorps.org/uploads/2018/05/1526853709504-1.jpg",
+];
